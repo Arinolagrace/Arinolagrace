@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arinolagrace
-- 👀 I’m interested in innovation and big data
-- 🌱 I’m currently learning a coding language
-- 💞️ I’m looking to collaborate more on data analysis projects
+- 👀 I’m a lover of NLPs and Clear Visualisations.
+- 🌱 I’m currently learning R and Python
+- 💞️ I’m looking to drive more value via data analysis.
 - 📫 How to reach me arinolagrace2006@gmail.com
 
 <!---
